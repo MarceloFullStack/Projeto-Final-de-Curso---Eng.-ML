@@ -1,0 +1,15 @@
+artifact_uri: file:///home/marcelo/pessoal/infnet/engenharia%20de%20machine%20learning/projeto/Code/mlruns/714882769421594549/4c4cd9bed42d4f15b00be4d15aaaaa8c/artifacts
+end_time: 1710930813203
+entry_point_name: ''
+experiment_id: '714882769421594549'
+lifecycle_stage: active
+run_id: 4c4cd9bed42d4f15b00be4d15aaaaa8c
+run_name: Treinamento
+run_uuid: 4c4cd9bed42d4f15b00be4d15aaaaa8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710930813198
+status: 4
+tags: []
+user_id: marcelo

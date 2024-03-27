@@ -1,0 +1,15 @@
+artifact_uri: file:///home/marcelo/pessoal/infnet/engenharia%20de%20machine%20learning/projeto/Notebooks/mlruns/575788356259230779/cb9ab9c53b434e21a0d3ef5e3cb4f0eb/artifacts
+end_time: 1710937656770
+entry_point_name: ''
+experiment_id: '575788356259230779'
+lifecycle_stage: active
+run_id: cb9ab9c53b434e21a0d3ef5e3cb4f0eb
+run_name: PreparacaoDados
+run_uuid: cb9ab9c53b434e21a0d3ef5e3cb4f0eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710937654982
+status: 3
+tags: []
+user_id: marcelo

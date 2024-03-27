@@ -1,0 +1,15 @@
+artifact_uri: file:///home/marcelo/pessoal/infnet/engenharia%20de%20machine%20learning/projeto/Code/mlruns/0/2617c4b548c44ecbbc02522c571548b4/artifacts
+end_time: 1710878545373
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2617c4b548c44ecbbc02522c571548b4
+run_name: treasured-mole-928
+run_uuid: 2617c4b548c44ecbbc02522c571548b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710878541944
+status: 3
+tags: []
+user_id: marcelo
